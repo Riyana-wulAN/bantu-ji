@@ -1,0 +1,274 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: Soal Gambar
+  m_EditorClassIdentifier: 
+  categoryName: Soal Gambar
+  questions:
+  - questionInfo: Panjang diagonal ruang  D F  adalah..
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: fe1f51db93b7720489aa606e820a9b72, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "\u221A 1696  "
+    - "\u221A 1552  "
+    - "\u221A 1440  "
+    - "\u221A 400"
+    correctAns: "\u221A 1696  "
+  - questionInfo: Bidang diagonal yang tegak lurus dengan  B C H E  adalah...
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 3d2100b9771c4614e99a91d487b86a14, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - bidang   A B G H
+    - 'bidang   A D G F  '
+    - 'bidang   C D E F  '
+    - 'bidang   A C G E  '
+    correctAns: 'bidang   A D G F  '
+  - questionInfo: Luas permukaan bangun adalah.
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 6ee22b2bbc65dfb46a8c7ec16b6d140f, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - ' 1.320   cm 2  '
+    - 1.340   cm 2
+    - '1.420   cm 2  '
+    - '1.440   cm 2  '
+    correctAns: '1.440   cm 2  '
+  - questionInfo: Kolam renang berukuran panjang  50   m  dan lebar  16   m . Kedalaman
+      air pada ujung yang dangkal  1   m  terus melandai hingga pada ujungnya yang
+      dalam  3   m  seperti tampak pada gambar di bawah ini...
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 04c2d9cc52696a64daaf5a98430c5ae1, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 800   m 3
+    - 1600   m 3
+    - 2400   m 3
+    - 3200   m 3
+    correctAns: 1600   m 3
+  - questionInfo: Kolam renang berukuran panjang  50   m  dan lebar  16   m . Kedalaman
+      air pada ujung yang dangkal  1   m  terus melandai hingga pada ujungnya yang
+      dalam  3   m  seperti tampak pada gambar di bawah ini...
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 04c2d9cc52696a64daaf5a98430c5ae1, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 800   m 3
+    - 1600   m 3
+    - 2400   m 3
+    - 3200   m 3
+    correctAns: 1600   m 3
+  - questionInfo: Empat macam rangkaian enam bujur sangkar di atas, yang merupakan
+      jaring-jaring kubus adalah...
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 9fa1871c620a64341b3dd9418aa21ebe, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - '( 1 )   dan   ( 2 )  '
+    - ( 1 )   dan   ( 3 )
+    - ( 1 )   dan   ( 4 )
+    - ( 2 )   dan   ( 3 )
+    correctAns: ( 1 )   dan   ( 3 )
+  - questionInfo: Indra akan membuat tiga buah papan nama dari kertas karton yang
+      bagian kiri dan kananya terbuka seperti tampak pada gambar. Luas minimum karton
+      yang diperlukan Indra adalah...
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 9fa1871c620a64341b3dd9418aa21ebe, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 660   cm 2
+    - 770   cm 2
+    - 1.980   cm 2
+    - 2.100   cm 2
+    correctAns: 1.980   cm 2
+  - questionInfo: Sebuah kerangka akuarium berbentuk prisma dengan alas berbentuk
+      trapesium samakaki tampak seperti gambar di samping ini. Kerangka tersebut
+      terbuat dari aluminium dengan harga tiap meter  Rp 25.000 , 00 . Biaya minimal
+      untuk pembelian seluruh aluminium adalah...
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 0224a7d750ebb85428d2ebf09db2b32e, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 'Rp 480.000 , 00  '
+    - Rp 360.000 , 00
+    - Rp 320.000 , 00
+    - 'Rp 240.000 , 00  '
+    correctAns: 'Rp 240.000 , 00  '
+  - questionInfo: Suatu prisma memiliki  36  buah rusuk dan  14  sisi. Bentuk alas
+      prisma tersebut adalah...
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 'segi delapan belas  '
+    - 'segi tiga belas  '
+    - ' segi dua belas  '
+    - segi sembilan
+    correctAns: ' segi dua belas  '
+  - questionInfo: Kubus merupakan suatu bangun yang dapat disebut juga sebagai...
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - persegi empat
+    - 'tabung  '
+    - 'limas  '
+    - prisma
+    correctAns: prisma
+  - questionInfo: Limas  T . A B C D  diketahui panjang rusuk-rusuknya sama. Perbandingan
+      luas alas  A B C D  dengan luas seluruh sisi tegaknya adalah...
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - '1 : 2'
+    - "2 : \u221A 3"
+    - "\u221A 3 : 4  "
+    - "1 : \u221A 3"
+    correctAns: "1 : \u221A 3"
+  - questionInfo: Kubus yang panjang seluruh rusuknya  72  cm mempunyai luas permukaan
+      adalah...
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - '216   cm 2  '
+    - '246   cm 2  '
+    - '261   cm 2  '
+    - '264   cm 2  '
+    correctAns: '216   cm 2  '
+  - questionInfo: "Akmal membuat sebuah kerangka berbentuk balok yang terbuat dari
+      aluminum dengan ukuran  50   cm \xD7 50   cm \xD7 80   cm . Jika harga  1  
+      m  aluminimum  Rp 4.000 , 00 , biaya yang diperlukan untuk membeli aluminium
+      adalah..."
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Rp 12.000 , 00
+    - 'Rp 16.000 , 00  '
+    - Rp 22.400 , 00
+    - Rp 28.800 , 00
+    correctAns: Rp 28.800 , 00
+  - questionInfo: Limas dengan alas persegi mempunyai tinggi  8   cm  dan keliling
+      alas  60   cm , Volume limas tersebut adalah...
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - '160   cm 3  '
+    - '480   cm 3  '
+    - 600   cm 3
+    - 640   cm 3
+    correctAns: 600   cm 3
+  - questionInfo: Banyak diagonal ruang balok adalah...
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 4
+    - 6
+    - 8
+    - 12
+    correctAns: 8
+  - questionInfo: Anita ingin membuat kerangka limas persegi dengan panjang rusuk
+      alas  30   cm  dan panjang rusuk tegaknya  24   cm . Jika Anita memiliki kawat
+      sepanjang  10   meter , maka kerangka limas yang dapat dibuat adalah...
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 4
+    - 6
+    - 7
+    - 5
+    correctAns: 4
+  - questionInfo: Sebuah prisma tegak, alas berbentuk belahketupat dengan panjang
+      diagonal  12   cm  dan  16   cm . Jika tinggi prisma  25   cm , maka luas permukaan
+      prisma adalah...
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - '1.200   cm 2  '
+    - '1.192   cm 2  '
+    - 484   cm 2
+    - 292   cm 2
+    correctAns: '1.192   cm 2  '
+  - questionInfo: Sebuah prisma memiliki alas berbentuk layang-layang. Panjang diagonal
+      layang-layang tersebut  10   cm  dan  17   cm . Jika tinggi prisma  8   cm
+      , maka volume adalah...
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - ' 580   cm 3'
+    - '640   cm 3  '
+    - '680   cm 3  '
+    - '780   cm 3  '
+    correctAns: '680   cm 3  '
+  - questionInfo: Luas seluruh permukaan limas persegi yang keliling alanya  48  
+      cm  dan tinggi  8   cm  adalah...
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 336   cm 2
+    - 380   cm 2
+    - 384   cm 2
+    - '406   cm 2  '
+    correctAns: 384   cm 2
+  - questionInfo: Kawat sepanjang  12   meter  akan dibuat kerangka balok yang berukuran
+      panjang  27   cm , lebar  21   cm , dan tinggi  12   cm . Paling banyak kerangka
+      balok yang dapat dibuat adalah...
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 4   buah
+    - 5   buah
+    - 6   buah
+    - 8   buah
+    correctAns: 5   buah
+  - questionInfo: "Panjang diagonal sisi kubus  8 \u221A 2   cm . Luas seluruh permukaan
+      kubus adalah..."
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - '48   cm 2  '
+    - '128   cm 2  '
+    - 384   cm 2
+    - 512   cm 2
+    correctAns: 384   cm 2
